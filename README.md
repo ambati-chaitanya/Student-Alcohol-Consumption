@@ -8,7 +8,6 @@ This repository contains an analysis of student alcohol consumption data from tw
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Results](#results)
 - [Contributing](#contributing)
 - [License](#license)
@@ -55,17 +54,6 @@ To run this project locally, follow these steps:
    Open the Jupyter notebook to explore the data and visualize the trends:
    ```bash
    jupyter notebook analysis.ipynb
-
-##  Project Stucture
-
-Student-Alcohol-Consumption/
-│
-├── data/                      # Dataset folder (not included in the repository)
-├── analysis.ipynb              # Jupyter notebook for EDA and visualizations
-├── ml_model.py                 # Machine learning model training and testing
-├── requirements.txt            # Python dependencies
-├── README.md                   # Project documentation
-└── visuals/                    # Generated plots and visualizations
 
 ## Contributing
 
