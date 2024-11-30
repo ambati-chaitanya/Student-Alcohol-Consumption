@@ -10,7 +10,7 @@ This repository contains an analysis of student alcohol consumption data from tw
 - [Usage](#usage)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
@@ -64,19 +64,3 @@ Contributions are welcome! To contribute, follow these steps:
 3. Commit your changes (git commit -m 'Add new feature').
 4. Push to the branch (git push origin feature-branch).
 5. Open a Pull Request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-### Instructions for Uploading to GitHub
-
-1. Create a file called `README.md` in the root of your repository.
-2. Paste the above content into the `README.md` file.
-3. Commit and push your changes to GitHub:
-    ```bash
-    git add README.md
-    git commit -m "Add README file"
-    git push origin main
-    ```
-
-This will add the `README.md` file to your GitHub repository, providing clear documentation for anyone accessing the project.
